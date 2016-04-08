@@ -12,4 +12,4 @@ item_to_item_CF.py - Read csv file that get from read_csv.py then put the movie 
 
 instance_result_Normcosine_500.csv - Result of the top 10 similar movies.
 
-** reviews_Amazon_Instant_Video.json.gz can be download from http://jmcauley.ucsd.edu/data/amazon/links.html
+** reviews_Amazon_Instant_Video.json.gz can be downloaded from http://jmcauley.ucsd.edu/data/amazon/links.html
