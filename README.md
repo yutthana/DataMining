@@ -1,5 +1,6 @@
 # DataMining
-Data Mining Project
+
+#Item-to-Item Colaborative Filltering
 
 read_csv.py - Read data from "reviews_Amazon_Instant_Video.json.gz"(approx. 80%) then delete unused key, and write to the csv file. Keys used in this project are ['ReviewerID', 'asin', 'overall']. 
 
